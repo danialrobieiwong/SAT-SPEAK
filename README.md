@@ -126,3 +126,5 @@ chmod +x setup.sh run.sh
 - For visual spotting, passes with max elevation above 40-50 degrees are the ones worth going outside for
 - New launches get NORAD IDs within a few days, you can track them on celestrak before most apps catch up
 - Back up your `.env` file if you ever plan to reinstall
+
+- :)
